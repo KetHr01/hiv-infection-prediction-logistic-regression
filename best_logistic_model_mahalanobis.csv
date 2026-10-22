@@ -1,0 +1,13 @@
+Feature,Coefficient
+const,-1.7948
+time,-0.9888
+offtrt,-1.0816
+log_cd420,-0.537
+cd4_ratio_20,-0.4483
+race,-0.3086
+age_x_cd40,0.2879
+symptom,0.1711
+time_x_karnof,-0.9674
+z30,0.1855
+drugs,-0.1886
+hemo,-0.1664
